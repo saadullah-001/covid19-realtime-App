@@ -10,17 +10,33 @@ A visual overview of the application's main functionality and user interface acr
 
 | **Global Dashboard** | **Country List View** | **Search Functionality** |
 |:---:|:---:|:---:|
-| <img src="screenshots/screen1.png" width="250" alt="Home Dashboard with global stats" /> | <img src="screenshots/screen2.png" width="250" alt="List of all countries" /> | <img src="screenshots/screen3.png" width="250" alt="Searching for a specific country" /> |
+| <img src="Screenshot_1765751474.png" width="250" alt="Home Dashboard with global stats" /> | <img src="Screenshot_1765752122.png" width="250" alt="List of all countries" /> | <img src="Screenshot_1765752128.png" width="250" alt="Searching for a specific country" /> |
 | *Live Global Stats & Charts* | *Scrollable Country list* | *Instant Search* |
 
 <br>
 
 | **Country Details** | **Statistical Graphs** | **About / Settings** |
 |:---:|:---:|:---:|
-| <img src="screenshots/screen4.png" width="250" alt="Detailed country statistics" /> | <img src="screenshots/screen5.png" width="250" alt="Graphical representation of data" /> | <img src="screenshots/screen6.png" width="250" alt="About screen" /> |
+| <img src="Screenshot_1765752136.png" width="250" alt="Detailed country statistics" /> | <img src="Screenshot_1765752140.png" width="250" alt="Graphical representation of data" /> | <img src="Screenshot_1765752168.png" width="250" alt="About screen" /> |
 | *Specific Country Deep-dive* | *Visual Data Trends* | *App Info & Settings* |
 
 ---
+
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
 
 ### 🛠️ Tech Stack & Key Libraries
 
